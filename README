@@ -11,7 +11,7 @@ Please see the FAQ below:
 FAQ:
 ———————————————————
 1. How to run the program?
-	a.	Before compiling and running please have the scheduler exe in the same directory as any input file that will be utilized.
+	a.	Before compiling and running please have the scheduler exe in the same directory as random-numbers.txt and any input file that will be utilized.
 	b.	There are TWO possible arguments to pass into the program:
 	    1. <input-filename>
 	    2. --verbose <input-filename>
